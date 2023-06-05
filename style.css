@@ -100,3 +100,17 @@
     margin-bottom: 30px;
 }
 
+.no-link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.no-link:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer; 
+}
+
+.card-shadow:hover {
+    box-shadow: 10px 10px !important;
+}
