@@ -1,3 +1,4 @@
+
 .material-symbols-outlined {
     font-variation-settings:
         'FILL' 1,
@@ -86,3 +87,16 @@
 .bd-mode-toggle {
     z-index: 1500;
 }
+
+.margin-b-header {
+    margin-bottom: 50px;
+}
+
+.margin-b-row {
+    margin-bottom: 100px;
+}
+
+.margin-b-30 {
+    margin-bottom: 30px;
+}
+
